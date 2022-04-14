@@ -35,4 +35,11 @@
     <None Include="Views\Shared\_CookieConsentPartial.cshtml" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Expense\Controllers\" />
+    <Folder Include="Areas\Expense\Data\" />
+    <Folder Include="Areas\Expense\Models\" />
+    <Folder Include="Areas\Expense\Views\" />
+  </ItemGroup>
+
 </Project>
